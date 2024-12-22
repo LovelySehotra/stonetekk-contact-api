@@ -28,5 +28,4 @@ This repository contains an email service built using Node.js, Express, and Node
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/LovelySehotra/stonetekk-contact-api.git
